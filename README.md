@@ -2,10 +2,14 @@
 Contains Python code for Edvard August Eggen Sveum's Master's Thesis
 
 The "SNA data preparations+" file contains the code to prepare the Patent for the social network analysis.
+The raw input files have not been included to their size.
 Output: IXA_FGepiE, IXI_FGephiE, Nodes_gephiE and Nationalisation Index data.
 
 
-The Citation network data structuring and network construction file contains the Python code needed to prepare the patent data and construct patent citation networks used in the Main path analysis. 
+The Citation network data structuring and network construction file contains the Python code needed to prepare the patent data and construct patent citation networks used in the Main path analysis.
+The raw input files have not been included to their size.
+
+
 
 Input for Gephi: IXA_FGepiE, IXI_FGephiE, Nodes_gephiE
 Gephi output: GTISNPv2R1 and "SNA FC + FCV TIS R1" (also used as input for SNA data preperations+'s later sections).
